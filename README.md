@@ -9,3 +9,5 @@ Function for web data cleaning and preliminary analysis
 3. Beijing raw data: raw data copied from website, input of "web data cleaning"
 
 4. Beijing cleaned data: cleaned data, output of "web data cleaning"
+
+5. aggregate plot.R: Function of functions to aggregate data, generate plots, and save plots
